@@ -1,0 +1,4 @@
+Timestamp,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Prediction,Probability,RiskLevel
+2026-08-26 21:47:47,1,117,72,23,30,31.2,0.375,33,1,70.0,High Risk
+2026-08-27 09:45:17,1,117,72,23,30,31.2,0.375,33,1,70.0,High Risk
+2026-08-27 12:01:34,1,117,72,23,30,31.2,0.375,33,1,70.0,High Risk
